@@ -1,0 +1,21 @@
+{ "mysql-5.1" :
+  [
+      { "credentials" :
+      { "host" : "10.0.45.138",
+        "hostname" : "10.0.45.138",
+        "name" : "df5d21eb08a0c485785e16e8b8eff2fcb",
+        "password" : "pHDotLSg1KX8W",
+        "port" : 3306,
+        "user" : "ujJ2vASZHuk0U",
+        "username" : "ujJ2vASZHuk0U"
+    },
+        "label" : "mysql-5.1",
+        "name" : "virtualengineer-mysql",
+        "plan" : "free",
+        "tags" : [ "mysql",
+            "mysql-5.1",
+            "relational",
+            "mysql-5.1",
+            "mysql"
+    ]
+} ] }

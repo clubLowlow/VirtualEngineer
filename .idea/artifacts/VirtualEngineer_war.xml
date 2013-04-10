@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="VirtualEngineer:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="VirtualEngineer.war">
+      <element id="artifact" artifact-name="VirtualEngineer:war exploded" />
+    </root>
+  </artifact>
+</component>
